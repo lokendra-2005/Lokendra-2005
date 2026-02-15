@@ -1,32 +1,37 @@
 <h1 align="center">Hi 👋, I'm Lokendra Singh</h1>
-<h3 align="center">🤖 Robotics | 🧠 AI | 💻 Developer</h3>
+<h3 align="center">💻 Software Engineer | 🤖 AI & Robotics Enthusiast</h3>
 
 <p align="center">
-Building AI + Robotics projects and smart systems 🚀
+Building **Smart AI + Robotics Systems** 🚀  
+💡 Working with **ESP32, VS Code, Visual Studio, Windsurf, Antigravity**, and cutting-edge software tools  
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🤖 Robo Soccer Developer  
-- 🧠 Building **JobShield AI**  
-- ⚙️ Working with ESP32 & Computer Vision  
-- 💻 Learning Full Stack + AI  
+- 🧠 Creator of **JobShield AI**  
+- ⚡ Working on **AI, Full Stack, Embedded Systems & Software Engineering**  
+- 🤖 Passionate about **Robo Soccer** and Robotics Projects  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Software Tools
 <p align="center">
-Python • C++ • Arduino • ESP32 • OpenCV • React • Node.js • MongoDB
+Python • C++ • Arduino • OpenCV • React • Node.js • MongoDB • VS Code • Visual Studio • Git • Docker • Linux
 </p>
 
 ---
 
+## 🧰 Hardware & Tools
+ESP32 • L298N • LiPo Batteries • Sensors • Computer Vision  
+
+---
+
 ## 🚀 Projects
-- 🤖 Robo Soccer Car  
-- 🧠 JobShield AI  
-- 🛰 Drone Feature Extraction  
-- 🌐 Portfolio Website (coming soon)
+- 🧠 **JobShield AI** – Smart AI platform for recruitment  
+- 🛰 **Drone Feature Extraction** – Computer vision for aerial data  
+- 🌐 **Portfolio Website** – Interactive UI coming soon  
+- 🤖 **Robo Soccer Car** – Autonomous robot for soccer competitions  
 
 ---
 
@@ -41,11 +46,12 @@ Python • C++ • Arduino • ESP32 • OpenCV • React • Node.js • MongoD
 
 ---
 
-## 🧰 Tools
-ESP32 • L298N • LiPo Batteries • Sensors • Computer Vision
+## 📫 Contact Me
+<p align="center">
+<a href="https://www.linkedin.com/in/lokendra-singh-1964b8380" target="_blank">LinkedIn</a> •  
+<a href="mailto:skshekhawat89@gmail.com">Email</a>
+</p>
 
 ---
 
-## 📫 Contact
-LinkedIn: https://www.linkedin.com/in/lokendra-singh-1964b8380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
-Email: skshekhawat89@gmail.com
+💡 *“Turning code into reality with AI, Robotics & Smart Systems 🚀”*
