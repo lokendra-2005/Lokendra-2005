@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Lokendra Singh</h1>
+<h1 align="center">Hi 👋, I'm Lokendra Singh Shekhawat</h1>
 <h3 align="center">💻 Software Engineer | 🤖 AI & Robotics Enthusiast</h3>
 
 <p align="center">
-Building **Smart AI + Robotics Systems** 🚀  
-💡 Working with **ESP32, VS Code, Visual Studio, Windsurf, Antigravity**, and cutting-edge software tools  
+Building **Smart AI + Robotics Systems** 🚀<br>
+💡 Working with <strong>Python, C++, Arduino, OpenCV, React, Node.js, MongoDB, VS Code, Visual Studio, Git, Docker, Linux</strong> and cutting-edge software tools  
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🧠 Creator of **JobShield AI**  
+- 🧠 Creator Of **Features Extraction From Drone Imagery**
+- 🤖 Made A Robotic Car For **Robo race** | **Robo Soccer** |
+- 🧠 Currently Working On Large Scale App of **Job Security**  
 - ⚡ Working on **AI, Full Stack, Embedded Systems & Software Engineering**  
-- 🤖 Passionate about **Robo Soccer** and Robotics Projects  
+- 🤖 Passionate about ** Software ** | **Web Apps** | **Robo Soccer** | and Robotics Projects  
 
 ---
 
@@ -22,16 +24,17 @@ Python • C++ • Arduino • OpenCV • React • Node.js • MongoDB • VS C
 
 ---
 
-## 🧰 Hardware & Tools
-ESP32 • L298N • LiPo Batteries • Sensors • Computer Vision  
-
----
-
 ## 🚀 Projects
-- 🧠 **JobShield AI** – Smart AI platform for recruitment  
-- 🛰 **Drone Feature Extraction** – Computer vision for aerial data  
+- 🧠 **Drone Feature Extraction** – Computer vision for aerial data
+- 🤖 **Robo Car** – Autonomous robot Car for Race & soccer competitions  
 - 🌐 **Portfolio Website** – Interactive UI coming soon  
-- 🤖 **Robo Soccer Car** – Autonomous robot for soccer competitions  
+- 🛰 **Currently Working On Job Security AI** – Smart AI platform for recruitment  
+- 🌐 ** Upcoming WebApp Will Be A Linked Software 
+
+
+<p align="center">
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="animation"/>
+</p>
 
 ---
 
@@ -55,3 +58,4 @@ ESP32 • L298N • LiPo Batteries • Sensors • Computer Vision
 ---
 
 💡 *“Turning code into reality with AI, Robotics & Smart Systems 🚀”*
+
