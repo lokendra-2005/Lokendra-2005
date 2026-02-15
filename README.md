@@ -29,11 +29,11 @@ Python • C++ • Arduino • OpenCV • React • Node.js • MongoDB • VS C
 - 🤖 **Robo Car** – Autonomous robot Car for Race & soccer competitions  
 - 🌐 **Portfolio Website** – Interactive UI coming soon  
 - 🛰 **Currently Working On Job Security AI** – Smart AI platform for recruitment  
-- 🌐 ** Upcoming WebApp Will Be A Linked Software 
+- 🌐 ** Upcoming WebApp Will Be A Linked Software**
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="animation"/>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="handshake animation"/>
 </p>
 
 ---
@@ -58,4 +58,3 @@ Python • C++ • Arduino • OpenCV • React • Node.js • MongoDB • VS C
 ---
 
 💡 *“Turning code into reality with AI, Robotics & Smart Systems 🚀”*
-
